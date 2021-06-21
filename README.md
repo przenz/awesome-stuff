@@ -12,6 +12,9 @@
 * [LANDrop](https://landrop.app/) - Drop any files to any devices on your LAN.
 * [Wormhole](https://github.com/tj/n) - Wormhole lets you share files with end-to-end encryption and a link that automatically expires. 
 
+## Gnome extensions
+* [Freon](https://github.com/UshakovVasilii/gnome-shell-extension-freon/) - CPU temperature, disk temperature, video card temperature, voltage and fan RPM.
+
 ## JS/Node
 * [n](https://github.com/tj/n) - Node version manager.
 
